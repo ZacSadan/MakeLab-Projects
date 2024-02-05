@@ -18,4 +18,4 @@ Makers Projects Done in MakeLab
 
 **Health Watch Band Panel**
 
-https://github.com/ZacSadan/MakeLab-Projects/edit/main/README.md
+[https://github.com/ZacSadan/MakeLab-Projects/README.md](https://github.com/ZacSadan/MakeLab-Projects/blob/main/Health-Watch-Band-Panel.md)
