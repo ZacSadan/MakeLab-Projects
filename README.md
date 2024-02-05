@@ -12,7 +12,7 @@
 
 <img src="MakeLab_pics/ShelfUp.png" height="300">
 
-**Hidden unretrievable magnetic lock box**
+**Hidden/Secret unretrievable magnetic lock box**
 
 <img src="MakeLab_pics/Box1.jpg" height="300">
 <img src="MakeLab_pics/Box2.jpg" height="300">
