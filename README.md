@@ -1,5 +1,4 @@
-# MakeLab
-Makers Projects Done in MakeLab
+# MakeLab ( Projects Done in MakeLab )
 
 **Health Watch Band Panel**
 
