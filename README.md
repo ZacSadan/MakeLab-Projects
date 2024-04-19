@@ -6,13 +6,14 @@
 
 ## Other Small Projects
 
-**Shelf Down**
+**Replaceable Holy Book Cover from real Leather.**
 
-<img src="MakeLab_pics/ShelfDown.jpg" height="300">
+**Twelve Tribes of Israel drawing by Yaara Sadan (Adobe Illustrator)**
 
-**Shelf Up with key holders**
-
-<img src="MakeLab_pics/ShelfUp.png" height="300">
+<img src="MakeLab_pics/LeatherBookCover1.jpg" height="600">
+<img src="MakeLab_pics/LeatherBookCover2.jpg" height="300">
+<img src="MakeLab_pics/LeatherBookCover3.jpg" height="300">
+<img src="MakeLab_pics/LeatherBookCover4.jpg" height="300">
 
 **Hidden/Secret unretrievable magnetic lock box**
 
@@ -20,6 +21,14 @@
 <img src="MakeLab_pics/Box2.jpg" height="300">
 <img src="MakeLab_pics/Box3.jpg" height="300">
 <img src="MakeLab_pics/Box4.jpg" height="300">
+
+**Shelf Down**
+
+<img src="MakeLab_pics/ShelfDown.jpg" height="300">
+
+**Shelf Up with key holders**
+
+<img src="MakeLab_pics/ShelfUp.png" height="300">
 
 **Police Car Tablet - Mobile Phones Holder**
 
