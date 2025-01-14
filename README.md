@@ -39,5 +39,11 @@
 
 <img src="MakeLab_pics/PoliceShelfs.jpg" height="300">
 
+**Bible Cow leather cover**
+
+<img src="MakeLab_pics/Bible_open_back.jpg" height="300">
+<img src="MakeLab_pics/Bible_open.jpg" height="300">
+<img src="MakeLab_pics/Bible_closed.jpg" height="300">
+
 
 
