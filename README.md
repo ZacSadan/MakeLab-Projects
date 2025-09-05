@@ -35,15 +35,22 @@
 <img src="MakeLab_pics/police_car_tablet_phones_holder2.png" height="300">
 <img src="MakeLab_pics/police_car_tablet_phones_holder1.png" height="300">
 
-**Police Shelfs**
+**Police/Plastic Shelfs**
 
 <img src="MakeLab_pics/PoliceShelfs.jpg" height="300">
+<img src="MakeLab_pics/laserCutPlasticShelf.jpg" height="300">
 
 **Bible Cow leather cover**
 
 <img src="MakeLab_pics/Bible_open_back.jpg" height="300">
 <img src="MakeLab_pics/Bible_open.jpg" height="300">
 <img src="MakeLab_pics/Bible_closed.jpg" height="300">
+
+**eInk/ePaper Magnetic Family Tasks Display on refrigerator + Holder (3D Printed)**
+
+<img src="MakeLab_pics/eInkTasks1.jpg" height="300">
+<img src="MakeLab_pics/eInkTasks2.jpg" height="300">
+<img src="MakeLab_pics/eInkTasks3.jpg" height="300">
 
 
 
