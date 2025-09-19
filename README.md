@@ -51,6 +51,7 @@
 <img src="MakeLab_pics/eInkTasks1.jpg" height="300">
 <img src="MakeLab_pics/eInkTasks2.jpg" height="300">
 <img src="MakeLab_pics/eInkTasks3.jpg" height="300">
+<img src="MakeLab_pics/eInkTasks4.jpg" height="300">
 
 
 
