@@ -53,5 +53,11 @@
 <img src="MakeLab_pics/eInkTasks3.jpg" height="300">
 <img src="MakeLab_pics/eInkTasks4.jpg" height="300">
 
+**CharityBox**
+
+<img src="MakeLab_pics/CharityBox1.jpg" height="300">
+<img src="MakeLab_pics/CharityBox2.jpg" height="300">
+<img src="MakeLab_pics/CharityBox3.jpg" height="300">
+
 
 
