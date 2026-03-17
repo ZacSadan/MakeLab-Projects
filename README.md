@@ -61,9 +61,12 @@
 <img src="MakeLab_pics/CharityBox3.jpg" height="300">
 
 
-**3D Robot + 2D Robot with Android Tablet that detect Bots using AI/Video analysis**
+**3D Robot using recycled electronics parts**
 
 <img src="MakeLab_pics/Robots3D.jpg" height="300">
+
+**2D Robot using recycled electronics parts - with Android Tablet that detect Bots using AI/Video analysis**
+
 <img src="MakeLab_pics/RobotPlusAI_Tablet.jpg" height="300">
 
 
