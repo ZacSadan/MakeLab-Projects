@@ -53,11 +53,18 @@
 <img src="MakeLab_pics/eInkTasks3.jpg" height="300">
 <img src="MakeLab_pics/eInkTasks4.jpg" height="300">
 
+
 **CharityBox**
 
 <img src="MakeLab_pics/CharityBox1.jpg" height="300">
 <img src="MakeLab_pics/CharityBox2.jpg" height="300">
 <img src="MakeLab_pics/CharityBox3.jpg" height="300">
+
+
+**3D Robot + 2D Robot with Android Tablet that detect Bots using AI/Video analysis**
+
+<img src="MakeLab_pics/Robots3D.jpg" height="300">
+<img src="MakeLab_pics/RobotPlusAI_Tablet.jpg" height="300">
 
 
 
